@@ -1,0 +1,21 @@
+body {
+  margin: 15px;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.container {
+  padding-top: 15px;
+}
+
+.result {
+  padding-top: 20px;
+  font-size: 20px;
+}
